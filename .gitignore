@@ -1,0 +1,21 @@
+# Extensions to Exclude
+*.pyc
+*.xml
+*.tar.gz
+*.tar
+*.log
+*.bak
+*.idea
+*.iml
+*.mat
+*.png
+*.jpg
+
+# Directories and Files to Exclude
+Projects/ArtGeneration/otters_holding_hands/
+Projects/*/images/
+Projects/*/output/
+Projects/*/__pycache__/
+**/pretrained-model
+Projects/ArtGeneration/pretrained-model/imagenet-vgg-verydeep-19.mat
+*.DS_Store
